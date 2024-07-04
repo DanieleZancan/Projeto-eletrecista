@@ -19,6 +19,7 @@ Este projeto é um site estático desenvolvido com HTML e CSS, destinado à prom
 **HTML5:** Para a estruturação do conteúdo e elementos do site.
 
 **CSS3:** Para o design e estilização, garantindo uma apresentação visual atraente e responsiva.
+
 **Objetivo**
 
 O site foi criado para facilitar a conexão entre o eletricista e seus clientes, proporcionando uma interface intuitiva e informativa que incentiva a contratação de serviços. Com um design profissional e uma navegação amigável, o objetivo é transmitir confiança e eficiência, atraindo mais clientes e ampliando a visibilidade dos serviços oferecidos.
