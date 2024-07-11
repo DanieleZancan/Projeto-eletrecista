@@ -26,5 +26,5 @@ O site foi criado para facilitar a conexão entre o eletricista e seus clientes,
 
 **Visualização**
 
-O site pode ser visualizado aqui .
+O site pode ser visualizado aqui: https://danielezancan.github.io/projeto-eletrecista/ 
 
