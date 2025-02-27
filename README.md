@@ -1,6 +1,8 @@
-**Site para Serviços de Eletricista**
+**Projeto Site para Serviços de Eletricista - Página Web Responsiva**
 
 Este projeto é um site estático desenvolvido com HTML e CSS, destinado à promoção e venda de serviços de eletricista. O objetivo é criar uma presença online profissional para um eletricista, permitindo que clientes em potencial possam acessar informações sobre os serviços oferecidos, ler depoimentos de clientes satisfeitos, e entrar em contato para solicitar orçamentos ou agendar serviços.
+
+<img src="img/tela-projeto.gif">
 
 **Funcionalidades**
 
